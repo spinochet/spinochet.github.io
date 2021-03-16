@@ -5,7 +5,7 @@ highlighter:      pygments
 # Setup
 title:            Simon Pinochet
 tagline:          'Portfolio'
-description:      'I'm a Computer Science student at UT at Austin with a concentration in Game Development.'
+description:      "I'm a Computer Science student at UT at Austin with a concentration in Game Development."
 url:              http://hyde.getpoole.com
 baseurl:          /
 
