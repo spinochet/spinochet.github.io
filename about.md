@@ -9,7 +9,7 @@ title: About
 
 ## Education
 
-*The University of Texas at Austin*, Austin, TX
+*The University of Texas at Austin*, Austin, TX</br>
 Bachelor of Science in Computer Science
 * Overall GPA: 3.29
 * Concentration in Game Development
@@ -30,6 +30,18 @@ There are currently two themes built on Poole:
 * [Lanyon](http://lanyon.getpoole.com)
 
 Learn more and contribute on [GitHub](https://github.com/poole).
+
+## Skills
+*Technical Skills:*
+* Proficient in C# and Python. Intermediate in C, C++, Java and JavaScript.
+* Intermediate in Unity and Unreal Engine. Basic in Godot.
+* Intermediate in Git.
+* Proficient in Windows. Intermediate in Mac OS and Linux.
+
+*Languages:*
+* Fluent in English
+* Native in Spanish
+
 
 ## Setup
 
