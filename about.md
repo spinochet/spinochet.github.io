@@ -7,7 +7,22 @@ title: About
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Education
+
+*The University of Texas at Austin*, Austin, TX
+Bachelor of Science in Computer Science
+* Overall GPA: 3.29
+* Concentration in Game Development
+
+Relevant Coursework:
+* Game Technology
+* Game Programming Paradigms
+* Data Structures
+* Object-Oriented Programming
+* Computer Graphics
+* Digital Media Production
+
+## Projects
 
 There are currently two themes built on Poole:
 
