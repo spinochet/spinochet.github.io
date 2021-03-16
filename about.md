@@ -21,16 +21,14 @@ Relevant Coursework:
 * Object-Oriented Programming
 * Computer Graphics
 * Digital Media Production
+<br/>
 
 ## Projects
 
-There are currently two themes built on Poole:
+TODO
+<br/>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
+<br/>
 ## Skills
 *Technical Skills:*
 * Proficient in C# and Python. Intermediate in C, C++, Java and JavaScript.
@@ -41,6 +39,7 @@ Learn more and contribute on [GitHub](https://github.com/poole).
 *Languages:*
 * Fluent in English
 * Native in Spanish
+<br/>
 
 
 ## Setup
