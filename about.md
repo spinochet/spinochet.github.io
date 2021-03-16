@@ -28,7 +28,6 @@ Relevant Coursework:
 TODO
 <br/>
 
-<br/>
 ## Skills
 *Technical Skills:*
 * Proficient in C# and Python. Intermediate in C, C++, Java and JavaScript.

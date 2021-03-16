@@ -7,7 +7,7 @@ title:            Simon Pinochet
 tagline:          'Portfolio'
 description:      "I'm a Computer Science student at UT at Austin with a concentration in Game Development."
 url:              http://hyde.getpoole.comu
-baseurl:          spinochet.github.io
+baseurl:          /spinochet.github.io
 
 author:
   name:           'Mark Otto'
