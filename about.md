@@ -9,7 +9,7 @@ title: About
 
 ## Education
 
-*The University of Texas at Austin*, Austin, TX</br>
+*The University of Texas at Austin*, Austin, TX<br/>
 Bachelor of Science in Computer Science
 * Overall GPA: 3.29
 * Concentration in Game Development
