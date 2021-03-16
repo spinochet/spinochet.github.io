@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  TODO
 </p>
 
 ## Education
@@ -30,7 +30,7 @@ TODO
 
 ## Skills
 *Technical Skills:*
-* Proficient in C# and Python. Intermediate in C, C++, Java and JavaScript.
+* Proficient in C# and Python. Intermediate in C, C++ and Java.
 * Intermediate in Unity and Unreal Engine. Basic in Godot.
 * Intermediate in Git.
 * Proficient in Windows. Intermediate in Mac OS and Linux.
