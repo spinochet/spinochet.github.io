@@ -4,9 +4,9 @@ title: Resume
 ---
 
 <p class="message">
-  Game Programmer
-  <a href="https://github.com/spinochet">Github page</a>
-  <a href="linkedin.com/in/simon-pinochet-9058931b6">Linkedin page</a>
+  Game Programmer <br/>
+  <a href="https://github.com/spinochet">Github page</a><br/>
+  <a href="https://linkedin.com/in/simon-pinochet-9058931b6">Linkedin page</a><br/>
 </p>
 
 ## Education
@@ -23,6 +23,7 @@ Relevant Coursework:
 * Data Structures
 * Object-Oriented Programming
 * Computer Graphics
+<br/>
 <br/>
 
 ## Projects
@@ -41,7 +42,8 @@ Game Programmer: Procedurally generated dungeon crawler, where the player has to
 *Pac-Mon (Solo)*, Austin, TX, Mar 2020 - May 2020
 Game Programmer: Pacman clone using pure JavaScript to challenge myself.
 * Programmed player controller in pure JavaScript.
-* Programmed ghost AI from pacman in pure JavaScript.<br/>
+* Programmed ghost AI from pacman in pure JavaScript.
+<br/>
 <br/>
 
 ## Skills
@@ -55,12 +57,11 @@ Game Programmer: Pacman clone using pure JavaScript to challenge myself.
 * Fluent in English
 * Native in Spanish
 <br/>
-
+<br/>
 
 ## Fun Facts
 *Hobbies:*
 * My favorite games of all time are Persona 5 Royal and Kingdom Hearts 2 Final Mix
 * I play guitar, bass and drums.
 * I love watching anime and reading manga.
-* 
 
