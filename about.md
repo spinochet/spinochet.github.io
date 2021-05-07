@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Resume
 ---
 
 <p class="message">
@@ -9,18 +9,18 @@ title: About
 
 ## Education
 
-*The University of Texas at Austin*, Austin, TX<br/>
+*The University of Texas at Austin*, Austin, TX<br/> <date>Dec 2021</date>
 Bachelor of Science in Computer Science
 * Overall GPA: 3.29
 * Concentration in Game Development
 
 Relevant Coursework:
+* 3D Game Development Capstone
 * Game Technology
 * Game Programming Paradigms
 * Data Structures
 * Object-Oriented Programming
 * Computer Graphics
-* Digital Media Production
 <br/>
 
 ## Projects
@@ -30,7 +30,7 @@ TODO
 
 ## Skills
 *Technical Skills:*
-* Proficient in C# and Python. Intermediate in C, C++ and Java.
+* Proficient in C# and Python. Intermediate in C, C++ and Java. Basic in HTML and JavaScript.
 * Intermediate in Unity and Unreal Engine. Basic in Godot.
 * Intermediate in Git.
 * Proficient in Windows. Intermediate in Mac OS and Linux.
@@ -41,15 +41,10 @@ TODO
 <br/>
 
 
-## Setup
+## Fun Facts
+*Hobbies:*
+* My favorite games of all time are Persona 5 Royal and Kingdom Hearts 2 Final Mix
+* I play guitar, bass and drums.
+* I love watching anime and reading manga.
+* 
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
