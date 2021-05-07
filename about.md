@@ -39,7 +39,7 @@ Relevant Coursework:
 * Designed and programmed character creator.
 * Designed and programmed procedurally generated maze with randomly generated enemies.<br/>
 
-<strong>*Pac-Mon (Solo)*</strong>, Austin, TX, Mar 2020 - May 2020
+<strong>*Pac-Mon (Solo)*</strong>, Austin, TX, Mar 2020 - May 2020<br/>
 *Game Programmer*: Pacman clone using pure JavaScript to challenge myself.
 * Programmed player controller in pure JavaScript.
 * Programmed ghost AI from pacman in pure JavaScript.
